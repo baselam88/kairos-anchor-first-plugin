@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Presents any price ladder in fixed order: top tier first as the complete outcome, middle as the considered alternative, entry last and narrow on purpose.",
+  "keywords": [
+    "anchor",
+    "first",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-anchor-first",
+  "repository": "https://github.com/baselam88/kairos-anchor-first-plugin",
+  "version": "0.1.0"
+}
